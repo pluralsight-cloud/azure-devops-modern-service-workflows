@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+**/bin/
+**/obj/
+**/out/
+.env
+.env.*
+!.env.example
+.DS_Store
+/gh-orders-api/
